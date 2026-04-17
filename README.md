@@ -7,7 +7,7 @@
 <!-- HEADER BANNER
      Optional: generate a custom banner at https://capsule-render.vercel.app
      Then replace the URL below with your generated image link. -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Fritzch%20Ainsley%20Sanos&reversal=true&textBg=false&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Fritzch%20Ainsley%20Santos)
 
 <!-- INTRO — Write this like you're talking to a new friend. -->
 ### Hey there! I'm Fritzch Ainsley Santos! 👋
