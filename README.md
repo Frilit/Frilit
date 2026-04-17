@@ -15,7 +15,7 @@
 > Words of encouragement. Words of GREAT encouragement!
 
 I'm a **3rd year Computer Science student** at Angeles University Foundation (AUF).
-I love turning ideas into code, especially when it involves [your interest].
+I love turning ideas into code, especially when it involves Data!
 
 ---
 
@@ -68,12 +68,11 @@ Who is it for? What was the hardest part to build?]
 ## A little more about me
 
 ```
-const [yourName] = {
-  pronouns:    "[he/him | she/her | they/them]",
-  university:  "[University Name]",
-  loves:       ["coding", "[hobby]", "[hobby]"],
-  currentMood: "[your current mood or status]",
-  askMeAbout:  ["[topic]", "[topic]", "[topic]"]
+const [Fritzch Ainsley Santos] = {
+  pronouns:    "[he/him]",
+  university:  "[Angeles University Foundation]",
+  loves:       ["Gaming", "Data Graphs!", "Food"],
+  currentMood: "[Excited for new opportunities!]",
 }
 ```
 
@@ -82,11 +81,6 @@ const [yourName] = {
 <!-- CONNECT — Keep only platforms you check regularly. -->
 ## Find me online
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fritzch-ainsley-santos-483b31397/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-<!-- ============================================================
-     TIP: The waving banner at the top uses capsule-render.
-     Customize the color, height, and font at the URL above!
-     ============================================================ -->
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:santosfritzch@gmail.com)
